@@ -13,35 +13,24 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/PPlant Minigame/PlantScript.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-311">
-              <caret line="25" column="90" selection-start-line="25" selection-start-column="90" selection-end-line="25" selection-end-column="90" />
+            <state relative-caret-position="404">
+              <caret line="82" selection-start-line="82" selection-end-line="82" />
               <folding>
-                <marker date="1570229107819" expanded="false" signature="6:78" ph="..." />
-                <marker date="1570229107819" expanded="true" signature="120:1933" ph="{...}" />
-                <marker date="1570229107819" expanded="true" signature="477:815" ph="/* Need some sort of game manager object that ... */" />
-                <marker date="1570229107819" expanded="true" signature="842:1310" ph="{...}" />
-                <marker date="1570229107819" expanded="true" signature="983:1063" ph="{...}" />
-                <marker date="1570229107819" expanded="true" signature="1103:1183" ph="{...}" />
-                <marker date="1570229107819" expanded="true" signature="1223:1303" ph="{...}" />
-                <marker date="1570229107819" expanded="true" signature="1334:1510" ph="{...}" />
-                <marker date="1570229107819" expanded="true" signature="1388:1439" ph="{...}" />
-                <marker date="1570229107819" expanded="true" signature="1452:1504" ph="{...}" />
-                <marker date="1570229107819" expanded="true" signature="1542:1758" ph="{...}" />
-                <marker date="1570229107819" expanded="true" signature="1572:1665" ph="{...}" />
-                <marker date="1570229107819" expanded="true" signature="1678:1743" ph="{...}" />
-                <marker date="1570229107819" expanded="true" signature="1814:1931" ph="{...}" />
-                <marker date="1570229107819" expanded="true" signature="1866:1925" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../SpaceRaceClone/Assets/Scripts/PlayerController.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-542">
-              <folding>
-                <element signature="e#0#129#0" expanded="true" />
+                <marker date="1570297419197" expanded="false" signature="6:78" ph="..." />
+                <marker date="1570297419197" expanded="true" signature="120:2157" ph="{...}" />
+                <marker date="1570297419197" expanded="true" signature="562:900" ph="/* Need some sort of game manager object that ... */" />
+                <marker date="1570297419197" expanded="true" signature="927:1428" ph="{...}" />
+                <marker date="1570297419197" expanded="true" signature="1101:1181" ph="{...}" />
+                <marker date="1570297419197" expanded="true" signature="1221:1301" ph="{...}" />
+                <marker date="1570297419197" expanded="true" signature="1341:1421" ph="{...}" />
+                <marker date="1570297419197" expanded="true" signature="1452:1713" ph="{...}" />
+                <marker date="1570297419197" expanded="true" signature="1591:1642" ph="{...}" />
+                <marker date="1570297419197" expanded="true" signature="1655:1707" ph="{...}" />
+                <marker date="1570297419197" expanded="true" signature="1745:1972" ph="{...}" />
+                <marker date="1570297419197" expanded="true" signature="1775:1868" ph="{...}" />
+                <marker date="1570297419197" expanded="true" signature="1881:1946" ph="{...}" />
+                <marker date="1570297419197" expanded="true" signature="2028:2145" ph="{...}" />
+                <marker date="1570297419197" expanded="true" signature="2080:2139" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -50,8 +39,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/PPlant Minigame/StopTrigger.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="433">
-              <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+            <state relative-caret-position="864">
+              <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
               <folding>
                 <marker date="1570225481642" expanded="false" signature="6:78" ph="..." />
                 <marker date="1570225481642" expanded="true" signature="120:635" ph="{...}" />
@@ -70,10 +59,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Mechanic Scripts/StartScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/PPlant Minigame/StopTrigger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/PPlant Minigame/PlantScript.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../SpaceRaceClone/Assets/Scripts/PlayerController.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Mechanic Scripts/StartScript.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -144,11 +132,12 @@
       <workItem from="1570134384285" duration="101000" />
       <workItem from="1570134516513" duration="1202000" />
       <workItem from="1570224335407" duration="4246000" />
+      <workItem from="1570296032925" duration="1386000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5607000" />
+    <option name="totallyTimeSpent" value="7191000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -161,6 +150,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -225,10 +215,11 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../SpaceRaceClone/Assets/Scripts/PlayerController.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/PPlant Minigame/StopTrigger.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+        <state relative-caret-position="864">
+          <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
           <folding>
             <marker date="1570225481642" expanded="false" signature="6:78" ph="..." />
             <marker date="1570225481642" expanded="true" signature="120:635" ph="{...}" />
@@ -240,35 +231,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../SpaceRaceClone/Assets/Scripts/PlayerController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-542">
-          <folding>
-            <element signature="e#0#129#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/PPlant Minigame/PlantScript.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-311">
-          <caret line="25" column="90" selection-start-line="25" selection-start-column="90" selection-end-line="25" selection-end-column="90" />
+        <state relative-caret-position="404">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
           <folding>
-            <marker date="1570229107819" expanded="false" signature="6:78" ph="..." />
-            <marker date="1570229107819" expanded="true" signature="120:1933" ph="{...}" />
-            <marker date="1570229107819" expanded="true" signature="477:815" ph="/* Need some sort of game manager object that ... */" />
-            <marker date="1570229107819" expanded="true" signature="842:1310" ph="{...}" />
-            <marker date="1570229107819" expanded="true" signature="983:1063" ph="{...}" />
-            <marker date="1570229107819" expanded="true" signature="1103:1183" ph="{...}" />
-            <marker date="1570229107819" expanded="true" signature="1223:1303" ph="{...}" />
-            <marker date="1570229107819" expanded="true" signature="1334:1510" ph="{...}" />
-            <marker date="1570229107819" expanded="true" signature="1388:1439" ph="{...}" />
-            <marker date="1570229107819" expanded="true" signature="1452:1504" ph="{...}" />
-            <marker date="1570229107819" expanded="true" signature="1542:1758" ph="{...}" />
-            <marker date="1570229107819" expanded="true" signature="1572:1665" ph="{...}" />
-            <marker date="1570229107819" expanded="true" signature="1678:1743" ph="{...}" />
-            <marker date="1570229107819" expanded="true" signature="1814:1931" ph="{...}" />
-            <marker date="1570229107819" expanded="true" signature="1866:1925" ph="{...}" />
+            <marker date="1570297419197" expanded="false" signature="6:78" ph="..." />
+            <marker date="1570297419197" expanded="true" signature="120:2157" ph="{...}" />
+            <marker date="1570297419197" expanded="true" signature="562:900" ph="/* Need some sort of game manager object that ... */" />
+            <marker date="1570297419197" expanded="true" signature="927:1428" ph="{...}" />
+            <marker date="1570297419197" expanded="true" signature="1101:1181" ph="{...}" />
+            <marker date="1570297419197" expanded="true" signature="1221:1301" ph="{...}" />
+            <marker date="1570297419197" expanded="true" signature="1341:1421" ph="{...}" />
+            <marker date="1570297419197" expanded="true" signature="1452:1713" ph="{...}" />
+            <marker date="1570297419197" expanded="true" signature="1591:1642" ph="{...}" />
+            <marker date="1570297419197" expanded="true" signature="1655:1707" ph="{...}" />
+            <marker date="1570297419197" expanded="true" signature="1745:1972" ph="{...}" />
+            <marker date="1570297419197" expanded="true" signature="1775:1868" ph="{...}" />
+            <marker date="1570297419197" expanded="true" signature="1881:1946" ph="{...}" />
+            <marker date="1570297419197" expanded="true" signature="2028:2145" ph="{...}" />
+            <marker date="1570297419197" expanded="true" signature="2080:2139" ph="{...}" />
           </folding>
         </state>
       </provider>

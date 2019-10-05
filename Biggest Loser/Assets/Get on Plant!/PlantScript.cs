@@ -6,7 +6,10 @@ public class PlantScript : MonoBehaviour
 {
     public Rigidbody2D plantRb;
     public float speed;
+    public float maxTimer;
+    private float currentTimer;
     public bool shouldMove;
+    public bool moveDown;
 
     [Header("Spawn Variables")]
     public int randomNumber;
@@ -30,6 +33,7 @@ public class PlantScript : MonoBehaviour
     void Start()
     {
         stopScript = stopPoint.GetComponent<StopTrigger>();
+        currentTimer = maxTimer;
         randomNumber = Random.Range(1, 3);
 
         if (randomNumber == 1)
@@ -52,7 +56,9 @@ public class PlantScript : MonoBehaviour
     
     void Update()
     {
-        if (stopScript.stopPlantMoving != true)
+        currentTimer = currentTimer - Time.deltaTime;
+        
+        if (currentTimer <= 0 && stopScript.stopPlantMoving == false)
         {
             shouldMove = true;
         }
@@ -72,6 +78,9 @@ public class PlantScript : MonoBehaviour
         {
             plantRb.velocity = Vector2.zero;
         }
+
+        
+
         
     }
 
@@ -82,4 +91,6 @@ public class PlantScript : MonoBehaviour
             Destroy(other.gameObject);
         }
     }
+    
+    
 }
